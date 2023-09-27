@@ -89,7 +89,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
-                        android:text="Santosh Kumar Dash" />
+                        android:text="Aksa Ann Thomas" />
                 </LinearLayout>
 
                 <View
@@ -112,7 +112,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
-                        android:text="santoshnet2016@gmail.com" />
+                        android:text="aksaannthomas@gmail.com" />
                 </LinearLayout>
 
                 <View
@@ -135,7 +135,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
-                        android:text="9778178337" />
+                        android:text="8301969360" />
                 </LinearLayout>
 
                 <View
@@ -158,7 +158,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
-                        android:text="Banglore" />
+                        android:text="kochi" />
                 </LinearLayout>
 
                 <View
